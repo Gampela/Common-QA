@@ -4,13 +4,13 @@ import 'firebase/auth';
 import 'firebase/firestore';
 
 const config = {
-  apiKey: 'AIzaSyDwpoNIc-Bpbd-CXKfn_nqDIapHt9L3aE4',
-  authDomain: 'common-qa-3f235.firebaseapp.com',
-  databaseURL: 'https://common-qa-3f235.firebaseio.com',
-  projectId: 'common-qa-3f235',
-  storageBucket: 'common-qa-3f235.appspot.com',
-  messagingSenderId: '322844869603',
-  appId: '1:322844869603:web:9ee6a84a30373c6e7416d6',
+  apiKey: "AIzaSyBR1drRZIWeLZ1VRGudA8A9Z03RI45-3Ng",
+  authDomain: "common-qa-firebase.firebaseapp.com",
+  databaseURL: "https://common-qa-firebase.firebaseio.com",
+  projectId: "common-qa-firebase",
+  storageBucket: "common-qa-firebase.appspot.com",
+  messagingSenderId: "605901664573",
+  appId: "1:605901664573:web:0bfe8ce1a0ae458b9fd554",
 };
 
 firebase.initializeApp(config);
